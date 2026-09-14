@@ -10,7 +10,7 @@
 // -----------------------------------------
 // User settings (edit here)
 // -----------------------------------------
-const String PHONE_NUMBER = "+966567672890"; // emergency contact number (international format)
+const String PHONE_NUMBER = "+966XXXXXXXXX"; // set your emergency contact number here (international format)
 #define ACCIDENT_THRESHOLD 25.0 // impact force (m/s^2) required to count as an accident
 
 // --- Gas/smoke sensor settings (MQ-135) ---
